@@ -3,7 +3,7 @@
  * Write a description of class OldHouse here.
  *
  * Ngoc Lai
- * 3.12.2023
+ * 
  */
 import javafx.application.Application;
 import javafx.scene.Scene;
